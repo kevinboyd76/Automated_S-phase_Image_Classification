@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10247155.svg)](https://doi.org/10.5281/zenodo.10247155)
+
 # Automated_S-phase_Image_Classification
 ![Title](/images/Title.png)
 + Deep Learning Image analysis to automatically segment and classify cells into 5 distinct patterns
