@@ -19,11 +19,13 @@
 
 ## CNN Architecture
 ![CNN](/images/CNN_Architecture.png)
++ This image shows the CNN architecture that worked best for our application
 
-## Results
+# Result Metrics
 ![Accuracy](/images/accuracy.png)
 ![Loss](/images/loss.png)
 + These plots show the accuracy and loss of our model. We can see that we achieved an 86.5% accuracy overall.
 
+# Classification Results
 ![CM](/images/classification_results.png)
 + This final plot is a heatmap showing each of the stages and the correct and incorrect classifications.
